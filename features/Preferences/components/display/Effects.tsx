@@ -8,7 +8,6 @@ import { CLICK_SOUND_OPTIONS } from '../../data/audio/clickSounds';
 import CollapsibleSection from '../shared/CollapsibleSection';
 import { MousePointer2, Volume2, Zap } from 'lucide-react';
 import { useClick } from '@/shared/hooks/useAudio';
-import { ActionButton } from '@/shared/components/ui/ActionButton';
 
 function EffectCard({
   name,
@@ -29,7 +28,7 @@ function EffectCard({
         'flex h-20 flex-col items-center justify-center gap-1',
         buttonBorderStyles,
         'rounded-3xl',
-        'border-1 border-(--card-color)',
+        'border border-(--card-color)',
         'cursor-pointer px-2 py-2.5',
       )}
       style={{
@@ -52,6 +51,49 @@ function EffectCard({
       )}
       {/* TEMP: hide effect names in cards */}
       {/* <span className='text-center text-xs leading-tight'>{name}</span> */}
+    </label>
+  );
+}
+
+function SoundEffectCard({
+  name,
+  isSelected,
+  onSelect,
+}: {
+  name: string;
+  isSelected: boolean;
+  onSelect: () => void;
+}) {
+  return (
+    <label
+      className={clsx(
+        'flex min-h-20 items-center justify-center text-center',
+        buttonBorderStyles,
+        'rounded-3xl border border-(--card-color) px-3 py-4',
+        'cursor-pointer',
+      )}
+      style={{
+        backgroundColor: isSelected ? 'var(--secondary-color)' : undefined,
+        transition: 'background-color 275ms',
+      }}
+    >
+      <input
+        type='radio'
+        name='effect-sound'
+        className='hidden'
+        onChange={onSelect}
+        checked={isSelected}
+        aria-label={name}
+      />
+      <span
+        className='text-base leading-tight'
+        style={{
+          color: isSelected ? 'var(--background-color)' : 'var(--main-color)',
+          transition: 'color 275ms',
+        }}
+      >
+        {name.toLowerCase()}
+      </span>
     </label>
   );
 }
@@ -79,20 +121,15 @@ const Effects = () => {
           {CLICK_SOUND_OPTIONS.map(option => {
             const isSelected = clickSoundId === option.id;
             return (
-              <ActionButton
+              <SoundEffectCard
                 key={option.id}
-                colorScheme={isSelected ? 'main' : 'secondary'}
-                borderColorScheme={isSelected ? 'main' : 'secondary'}
-                borderBottomThickness={16}
-                borderRadius='3xl'
-                className={`px-3 py-4 text-(--background-color) ${!isSelected ? 'opacity-50' : ''}`}
-                onClick={() => {
+                name={option.label}
+                isSelected={isSelected}
+                onSelect={() => {
                   setClickSoundId(option.id);
                   playClickById(option.id);
                 }}
-              >
-                {option.label.toLowerCase()}
-              </ActionButton>
+              />
             );
           })}
         </fieldset>
