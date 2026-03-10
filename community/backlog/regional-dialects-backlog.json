@@ -6,7 +6,7 @@
     "region": "Kansai",
     "note": "Very common in Osaka/Kyoto speech. (Set 1)",
     "id": 1,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -157,7 +157,7 @@
     "note": "Prohibitive nuance. (Set 1)",
     "id": 16,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なんくるないさ",
@@ -167,7 +167,7 @@
     "note": "Famous Okinawan resilience phrase. (Set 1)",
     "id": 17,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "にふぇーでーびる",
@@ -177,7 +177,7 @@
     "note": "Okinawan gratitude expression. (Set 1)",
     "id": 18,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜やねん",
@@ -186,7 +186,7 @@
     "region": "Kansai",
     "note": "Explanatory ending in conversation. (Set 1)",
     "id": 19,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -196,7 +196,7 @@
     "region": "Kansai",
     "note": "Traditional gratitude expression. (Set 1)",
     "id": 20,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -396,7 +396,7 @@
     "region": "Kansai",
     "note": "Traditional gratitude expression. (Set 2)",
     "id": 40,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -466,7 +466,7 @@
     "region": "Hokkaido",
     "note": "Hokkaido intensifier. (Set 3)",
     "id": 47,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -746,7 +746,7 @@
     "region": "Hiroshima",
     "note": "Common causal ending. (Set 4)",
     "id": 75,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -916,7 +916,7 @@
     "region": "Nagoya",
     "note": "Characteristic Nagoya intensifier. (Set 5)",
     "id": 92,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1167,7 +1167,7 @@
     "note": "Famous Okinawan resilience phrase. (Set 6)",
     "id": 117,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "にふぇーでーびる",

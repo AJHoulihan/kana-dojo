@@ -248,7 +248,7 @@
       "Okayama"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -585,7 +585,7 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 43,
@@ -669,7 +669,7 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 49,
@@ -962,7 +962,7 @@
       "Chankonabe"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1144,7 +1144,7 @@
       "Kairo"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1256,7 +1256,7 @@
       "Arctic Ocean"
     ],
     "correctIndex": 2,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1606,7 +1606,7 @@
       "Romaji"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1901,7 +1901,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 137,
@@ -1942,7 +1942,7 @@
       "Hiroshima"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

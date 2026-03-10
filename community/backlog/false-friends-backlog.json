@@ -14,7 +14,7 @@
     "explanation": "マンション means apartment building in Japanese. (Set 1)",
     "example": "駅前のマンションに住んでいます。",
     "id": 2,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -204,7 +204,7 @@
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 23,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "スマート (sumaato)",
@@ -213,7 +213,7 @@
     "example": "彼はスマートな着こなしをしている。",
     "id": 24,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "テンション (tenshon)",
@@ -222,7 +222,7 @@
     "example": "ライブでテンションが上がった。",
     "id": 25,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "バイキング (baikingu)",
@@ -239,7 +239,7 @@
     "explanation": "カンニング means cheating on tests. (Set 2)",
     "example": "試験でカンニングしてはいけません。",
     "id": 27,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -366,7 +366,7 @@
     "example": "祖母に手紙を書きました。",
     "id": 41,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "マンション (manshon)",
@@ -374,7 +374,7 @@
     "explanation": "マンション means apartment building in Japanese. (Set 3)",
     "example": "駅前のマンションに住んでいます。",
     "id": 42,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -419,7 +419,7 @@
     "explanation": "カンニング means cheating on tests. (Set 3)",
     "example": "試験でカンニングしてはいけません。",
     "id": 47,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -590,7 +590,7 @@
     "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 4)",
     "example": "ホテルの朝食はバイキングです。",
     "id": 66,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -708,7 +708,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 79,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -716,7 +716,7 @@
     "explanation": "In Japanese it can refer to animation in general. (Set 4)",
     "example": "子どものころからアニメが好きだ。",
     "id": 80,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1004,7 +1004,7 @@
     "explanation": "ホッチキス means stapler. (Set 6)",
     "example": "資料をホッチキスで留めてください。",
     "id": 112,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

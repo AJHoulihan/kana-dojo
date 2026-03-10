@@ -337,7 +337,7 @@
     "character": "Ichiban Kasuga",
     "id": 34,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この戦い、負けられない！",
@@ -347,7 +347,7 @@
     "character": "Various protagonists",
     "id": 35,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "それもまた一興",
@@ -357,7 +357,7 @@
     "character": "Nobunaga Oda",
     "id": 36,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "世界を救うって、そういうことだろ？",
@@ -366,7 +366,7 @@
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 37,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -397,7 +397,7 @@
     "character": "Musashi reference",
     "id": 40,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "まだまだだね",
@@ -407,7 +407,7 @@
     "character": "Ryoma Echizen",
     "id": 41,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "約束された勝利の剣",
@@ -427,7 +427,7 @@
     "character": "Luke fon Fabre",
     "id": 43,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "未来を変えるんだ！",
@@ -437,7 +437,7 @@
     "character": "Rintaro Okabe",
     "id": 44,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "希望は前に進むんだ！",
@@ -447,7 +447,7 @@
     "character": "Makoto Naegi",
     "id": 45,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "覚悟はいいか？ 俺はできてる。",
@@ -456,7 +456,7 @@
     "game": "JoJo’s Bizarre Adventure: All-Star Battle",
     "character": "Giorno Giovanna",
     "id": 46,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -466,7 +466,7 @@
     "game": "Dragon Quest series",
     "character": "Recurring command voice",
     "id": 47,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -676,7 +676,7 @@
     "game": "Kingdom Hearts series (JP dub)",
     "character": "Sora",
     "id": 68,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -827,7 +827,7 @@
     "character": "Luke fon Fabre",
     "id": 83,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "未来を変えるんだ！",
@@ -837,7 +837,7 @@
     "character": "Rintaro Okabe",
     "id": 84,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "希望は前に進むんだ！",
@@ -856,7 +856,7 @@
     "game": "JoJo’s Bizarre Adventure: All-Star Battle",
     "character": "Giorno Giovanna",
     "id": 86,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -866,7 +866,7 @@
     "game": "Dragon Quest series",
     "character": "Recurring command voice",
     "id": 87,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1177,7 +1177,7 @@
     "character": "Revali",
     "id": 118,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
@@ -1186,7 +1186,7 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 119,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

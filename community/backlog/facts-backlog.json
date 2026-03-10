@@ -182,7 +182,7 @@
   {
     "id": 31,
     "fact": "Japan has 'love hotels' (rabuho) with themed rooms ranging from Hello Kitty to medieval dungeons, renting by the hour or night.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -434,13 +434,13 @@
   {
     "id": 73,
     "fact": "There's a Japanese word 'kogarashi' (木枯らし) for the specific cold wind that strips leaves from trees in late autumn.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 74,
     "fact": "Japan's vending machines have earthquake sensors that automatically release free drinks during major earthquakes as emergency supplies.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -465,18 +465,18 @@
     "id": 78,
     "fact": "Japan has the world's shortest escalator - only 5 steps tall (83.4 cm) at More's Department Store in Kawasaki.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 79,
     "fact": "The Japanese word 'nomunication' combines 'nomu' (drink) and 'communication' - bonding with colleagues over after-work drinks.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 80,
     "fact": "Japan has 'midnight service' buses for people who miss the last train, charging premium prices to get workers home.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -987,12 +987,12 @@
     "id": 165,
     "fact": "The word 'ganban' (願番) describes taking turns at a task - cooperation without needing explicit coordination.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 166,
     "fact": "Japan has a shrine in Kyoto where foxes are believed to be divine messengers - thousands of red torii gates lead to it.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1526,7 +1526,7 @@
   {
     "id": 255,
     "fact": "Japan’s traditional towel, the 'tenugui' (手ぬぐい), is used for drying hands, wrapping gifts, and decorating homes.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1574,7 +1574,7 @@
   {
     "id": 263,
     "fact": "Japan has 'chiiki matsuri' — neighborhood festivals run by local committees where residents carry portable shrines together.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

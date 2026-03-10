@@ -40,8 +40,33 @@
     "explanation": "Nominalize with の before を. (Pattern set 4)"
   },
   {
-    "mistake": "Using \"hai\" instead of \"ee\"",
-    "correction": "ee (ええ)",
+    "wrong": "Using \"hai\" instead of \"ee\"",
+    "correct": "ee (ええ)",
     "explanation": "In casual Japanese, ee is more common than hai."
-  }
+  },
+  {
+    "wrong": "これは私のです本。",
+    "correct": "これは私の本です。",
+    "explanation": "Place の correctly in noun phrase. (Pattern set 2)"
+  },
+  {
+    "wrong": "毎日日本語を勉強していますから上手になります。",
+    "correct": "毎日日本語を勉強しているので上手になります。",
+    "explanation": "ので is smoother/neutral for reason. (Pattern set 1)"
+  },
+  {
+    "wrong": "私は20歳があります。",
+    "correct": "私は20歳です。",
+    "explanation": "In Japanese, age is expressed using 'です', not 'あります'."
+  },
+{
+  "wrong": "これは美味しいだ。",
+  "correct": "これは美味しい。",
+  "explanation": "い-adjectives do not take だ in plain form."
+},
+{
+  "wrong": "私は兄さんが二人います。",
+  "correct": "私は兄が二人います。",
+  "explanation": "Use 兄 for your own older brother. (Pattern set 3)"
+}
 ]
